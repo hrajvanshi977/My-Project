@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099224235585",
+    "project_id": "rentzgo-a608a",
+    "storage_bucket": "rentzgo-a608a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099224235585:android:99ddb9d7637c918419d0c0",
+        "android_client_info": {
+          "package_name": "com.example.rentzgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099224235585-jgucueivdn4idj0bvv4kslg5sft69fur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorTcKixaQj5imJCn4cccC_wbQteYIiG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099224235585-jgucueivdn4idj0bvv4kslg5sft69fur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

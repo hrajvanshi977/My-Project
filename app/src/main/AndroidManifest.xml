@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RentzGo">
+        <activity android:name=".SignUpActivity"></activity>
+        <activity android:name=".TestAcivity" />
+        <activity
+            android:name=".HousesLists"
+            android:label="@string/title_activity_houses_lists"
+            android:theme="@style/Theme.RentzGo.NoActionBar" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
